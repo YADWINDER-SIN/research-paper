@@ -1,7 +1,7 @@
 ********ARTIFICIAL INTELLIGENCE IN HEALTHCARE********
 
 
- ![alt text] (![Artificial-Intelligence-In-Healthcare-A-Comprehensive-Account](https://user-images.githubusercontent.com/96173895/152305337-7b23f4e8-e412-464e-a49d-cba95b236769.jpg)
+ ![Artificial-Intelligence-In-Healthcare-A-Comprehensive-Account](https://user-images.githubusercontent.com/96173895/152305337-7b23f4e8-e412-464e-a49d-cba95b236769.jpg)
 
 
 Artificial Intelligence (AI), in various forms and degrees, has begun to appear in a wide spectrum of technologies, it has changed our daily lives. It is changing the way we communicate, consume information and receive goods and services. What distinguishes AI technology from traditional technologies in healthcare is the ability to gather data, process it, and give a well-defined output to the end-user. There is great optimism that AI can provide substantial improvement in all areas of the health care system from diagnosis to treatment.
@@ -58,7 +58,7 @@ The future of artificial intelligence in healthcare could include tasks that ran
 ****YADWINDER SINGH****
 
 
-****References*****
+****References****
 
 English Oxford Living Dictionaries, https://en.oxforddictionaries.com/definition/artificial_intelligence
 
