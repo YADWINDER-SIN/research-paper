@@ -1,4 +1,4 @@
-# ****ARTIFICIAL INTELLIGENCE IN HEALTHCARE****
+# **ARTIFICIAL INTELLIGENCE IN HEALTHCARE**
 
 
  ![Artificial-Intelligence-In-Healthcare-A-Comprehensive-Account](https://user-images.githubusercontent.com/96173895/152305337-7b23f4e8-e412-464e-a49d-cba95b236769.jpg)
@@ -7,7 +7,7 @@
 Artificial Intelligence (AI), in various forms and degrees, has begun to appear in a wide spectrum of technologies, it has changed our daily lives. It is changing the way we communicate, consume information and receive goods and services. What distinguishes AI technology from traditional technologies in healthcare is the ability to gather data, process it, and give a well-defined output to the end-user. There is great optimism that AI can provide substantial improvement in all areas of the health care system from diagnosis to treatment.
 
 
-# ****HOW AI TRANSFORMING HEALTHCARE****
+# **HOW AI TRANSFORMING HEALTHCARE**
 
 Artificial intelligence (AI) is the main driving force behind the transformation in healthcare, especially within the primary care. It has bridged the physical, cognitive and emotional space between patients and physicians, and shifted the focus from transactional to personal care. As artificial technology evolves and emerging it become more widely adopted, the digital patient journey is poised to advance further in the next few years. Integrated care delivery across the patient journey is expected to be the new focal point in healthcare. The use of machine learning and natural programming language are mainly responsible for the recent advancement in this field. Nowadays, its applications are widely used to solve the major problems faced by the doctors, nurses and patients at the time of diagnosing and treating the patients.  
 
